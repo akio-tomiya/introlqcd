@@ -4,4 +4,4 @@
 →のボタンを押すと起動&実行できます
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akio-tomiya/introlqcd/HEAD?labpath=IntroLQCDjpv1.ipynb)
 
-- 2023/12/31 初版アップロード
+- 2022/12/31 初版アップロード
